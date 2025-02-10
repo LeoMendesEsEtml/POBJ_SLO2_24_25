@@ -1,0 +1,11 @@
+C:\LMS\Git_Mendes\Depot_1\POBJ_SLO2_24_25\Exercices\Cs\Graphique\Ex2\Ex2\bin\Debug\Ex2.exe.config
+C:\LMS\Git_Mendes\Depot_1\POBJ_SLO2_24_25\Exercices\Cs\Graphique\Ex2\Ex2\bin\Debug\Ex2.exe
+C:\LMS\Git_Mendes\Depot_1\POBJ_SLO2_24_25\Exercices\Cs\Graphique\Ex2\Ex2\bin\Debug\Ex2.pdb
+C:\LMS\Git_Mendes\Depot_1\POBJ_SLO2_24_25\Exercices\Cs\Graphique\Ex2\Ex2\obj\Debug\Ex2.csproj.AssemblyReference.cache
+C:\LMS\Git_Mendes\Depot_1\POBJ_SLO2_24_25\Exercices\Cs\Graphique\Ex2\Ex2\obj\Debug\Ex2.csproj.SuggestedBindingRedirects.cache
+C:\LMS\Git_Mendes\Depot_1\POBJ_SLO2_24_25\Exercices\Cs\Graphique\Ex2\Ex2\obj\Debug\Ex2.Form1.resources
+C:\LMS\Git_Mendes\Depot_1\POBJ_SLO2_24_25\Exercices\Cs\Graphique\Ex2\Ex2\obj\Debug\Ex2.Properties.Resources.resources
+C:\LMS\Git_Mendes\Depot_1\POBJ_SLO2_24_25\Exercices\Cs\Graphique\Ex2\Ex2\obj\Debug\Ex2.csproj.GenerateResource.cache
+C:\LMS\Git_Mendes\Depot_1\POBJ_SLO2_24_25\Exercices\Cs\Graphique\Ex2\Ex2\obj\Debug\Ex2.csproj.CoreCompileInputs.cache
+C:\LMS\Git_Mendes\Depot_1\POBJ_SLO2_24_25\Exercices\Cs\Graphique\Ex2\Ex2\obj\Debug\Ex2.exe
+C:\LMS\Git_Mendes\Depot_1\POBJ_SLO2_24_25\Exercices\Cs\Graphique\Ex2\Ex2\obj\Debug\Ex2.pdb
