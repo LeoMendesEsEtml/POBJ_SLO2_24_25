@@ -1,0 +1,15 @@
+C:\LMS\Git_Mendes\Depot_1\POBJ_SLO2_24_25\Exercices\Cs\EX6 convertit en Cs\bin\Debug\net6.0\EX6 convertit en Cs.exe
+C:\LMS\Git_Mendes\Depot_1\POBJ_SLO2_24_25\Exercices\Cs\EX6 convertit en Cs\bin\Debug\net6.0\EX6 convertit en Cs.deps.json
+C:\LMS\Git_Mendes\Depot_1\POBJ_SLO2_24_25\Exercices\Cs\EX6 convertit en Cs\bin\Debug\net6.0\EX6 convertit en Cs.runtimeconfig.json
+C:\LMS\Git_Mendes\Depot_1\POBJ_SLO2_24_25\Exercices\Cs\EX6 convertit en Cs\bin\Debug\net6.0\EX6 convertit en Cs.dll
+C:\LMS\Git_Mendes\Depot_1\POBJ_SLO2_24_25\Exercices\Cs\EX6 convertit en Cs\bin\Debug\net6.0\EX6 convertit en Cs.pdb
+C:\LMS\Git_Mendes\Depot_1\POBJ_SLO2_24_25\Exercices\Cs\EX6 convertit en Cs\obj\Debug\net6.0\EX6 convertit en Cs.csproj.AssemblyReference.cache
+C:\LMS\Git_Mendes\Depot_1\POBJ_SLO2_24_25\Exercices\Cs\EX6 convertit en Cs\obj\Debug\net6.0\EX6 convertit en Cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\LMS\Git_Mendes\Depot_1\POBJ_SLO2_24_25\Exercices\Cs\EX6 convertit en Cs\obj\Debug\net6.0\EX6 convertit en Cs.AssemblyInfoInputs.cache
+C:\LMS\Git_Mendes\Depot_1\POBJ_SLO2_24_25\Exercices\Cs\EX6 convertit en Cs\obj\Debug\net6.0\EX6 convertit en Cs.AssemblyInfo.cs
+C:\LMS\Git_Mendes\Depot_1\POBJ_SLO2_24_25\Exercices\Cs\EX6 convertit en Cs\obj\Debug\net6.0\EX6 convertit en Cs.csproj.CoreCompileInputs.cache
+C:\LMS\Git_Mendes\Depot_1\POBJ_SLO2_24_25\Exercices\Cs\EX6 convertit en Cs\obj\Debug\net6.0\EX6 convertit en Cs.dll
+C:\LMS\Git_Mendes\Depot_1\POBJ_SLO2_24_25\Exercices\Cs\EX6 convertit en Cs\obj\Debug\net6.0\refint\EX6 convertit en Cs.dll
+C:\LMS\Git_Mendes\Depot_1\POBJ_SLO2_24_25\Exercices\Cs\EX6 convertit en Cs\obj\Debug\net6.0\EX6 convertit en Cs.pdb
+C:\LMS\Git_Mendes\Depot_1\POBJ_SLO2_24_25\Exercices\Cs\EX6 convertit en Cs\obj\Debug\net6.0\EX6 convertit en Cs.genruntimeconfig.cache
+C:\LMS\Git_Mendes\Depot_1\POBJ_SLO2_24_25\Exercices\Cs\EX6 convertit en Cs\obj\Debug\net6.0\ref\EX6 convertit en Cs.dll
