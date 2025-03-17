@@ -80,6 +80,7 @@
             this.btnShow.TabIndex = 4;
             this.btnShow.Text = "Show Hex Code ";
             this.btnShow.UseVisualStyleBackColor = true;
+            this.btnShow.Click += new System.EventHandler(this.BtnShow_Click);
             // 
             // btnQuitter
             // 
