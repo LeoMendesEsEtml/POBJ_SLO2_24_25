@@ -1,0 +1,17 @@
+C:\LMS\Git_Mendes\Depot_1\POBJ_SLO2_24_25\Exercices\Cs\Graphique\EX4\EX4\bin\Debug\net6.0-windows\EX4.exe
+C:\LMS\Git_Mendes\Depot_1\POBJ_SLO2_24_25\Exercices\Cs\Graphique\EX4\EX4\bin\Debug\net6.0-windows\EX4.deps.json
+C:\LMS\Git_Mendes\Depot_1\POBJ_SLO2_24_25\Exercices\Cs\Graphique\EX4\EX4\bin\Debug\net6.0-windows\EX4.runtimeconfig.json
+C:\LMS\Git_Mendes\Depot_1\POBJ_SLO2_24_25\Exercices\Cs\Graphique\EX4\EX4\bin\Debug\net6.0-windows\EX4.dll
+C:\LMS\Git_Mendes\Depot_1\POBJ_SLO2_24_25\Exercices\Cs\Graphique\EX4\EX4\bin\Debug\net6.0-windows\EX4.pdb
+C:\LMS\Git_Mendes\Depot_1\POBJ_SLO2_24_25\Exercices\Cs\Graphique\EX4\EX4\obj\Debug\net6.0-windows\EX4.csproj.AssemblyReference.cache
+C:\LMS\Git_Mendes\Depot_1\POBJ_SLO2_24_25\Exercices\Cs\Graphique\EX4\EX4\obj\Debug\net6.0-windows\EX4.FormEx4.resources
+C:\LMS\Git_Mendes\Depot_1\POBJ_SLO2_24_25\Exercices\Cs\Graphique\EX4\EX4\obj\Debug\net6.0-windows\EX4.csproj.GenerateResource.cache
+C:\LMS\Git_Mendes\Depot_1\POBJ_SLO2_24_25\Exercices\Cs\Graphique\EX4\EX4\obj\Debug\net6.0-windows\EX4.GeneratedMSBuildEditorConfig.editorconfig
+C:\LMS\Git_Mendes\Depot_1\POBJ_SLO2_24_25\Exercices\Cs\Graphique\EX4\EX4\obj\Debug\net6.0-windows\EX4.AssemblyInfoInputs.cache
+C:\LMS\Git_Mendes\Depot_1\POBJ_SLO2_24_25\Exercices\Cs\Graphique\EX4\EX4\obj\Debug\net6.0-windows\EX4.AssemblyInfo.cs
+C:\LMS\Git_Mendes\Depot_1\POBJ_SLO2_24_25\Exercices\Cs\Graphique\EX4\EX4\obj\Debug\net6.0-windows\EX4.csproj.CoreCompileInputs.cache
+C:\LMS\Git_Mendes\Depot_1\POBJ_SLO2_24_25\Exercices\Cs\Graphique\EX4\EX4\obj\Debug\net6.0-windows\EX4.dll
+C:\LMS\Git_Mendes\Depot_1\POBJ_SLO2_24_25\Exercices\Cs\Graphique\EX4\EX4\obj\Debug\net6.0-windows\refint\EX4.dll
+C:\LMS\Git_Mendes\Depot_1\POBJ_SLO2_24_25\Exercices\Cs\Graphique\EX4\EX4\obj\Debug\net6.0-windows\EX4.pdb
+C:\LMS\Git_Mendes\Depot_1\POBJ_SLO2_24_25\Exercices\Cs\Graphique\EX4\EX4\obj\Debug\net6.0-windows\EX4.genruntimeconfig.cache
+C:\LMS\Git_Mendes\Depot_1\POBJ_SLO2_24_25\Exercices\Cs\Graphique\EX4\EX4\obj\Debug\net6.0-windows\ref\EX4.dll
